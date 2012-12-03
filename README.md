@@ -8,7 +8,7 @@ Project Tracking
 
 * [Mongoid Google Group](http://groups.google.com/group/mongoid)
 * [Mongoid Website and Documentation](http://mongoid.org)
-* [Mongoid Code Climate](https://codeclimate.com/github/mongoid/mongoid)
+* <a href="https://codeclimate.com/github/mongoid/mongoid"><img src="https://codeclimate.com/badge.png" /></a>
 
 Compatibility
 -------------
